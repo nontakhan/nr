@@ -23,7 +23,7 @@ $oss='class="active"';
                     </div>
                 </div>
             </div>
-            <p>Please wait...</p>
+            <p>Please wait....</p>
         </div>
     </div>
     <nav class="navbar">
