@@ -40,7 +40,7 @@ $oss='class="active"';
             <!-- User Info -->
             <div class="user-info">
                 <div class="image">
-                    <img src="images/thepha_logo.png" width="50" height="50" alt="User" />
+                    <img src="images/logo.png" width="50" height="50" alt="User" />
                 </div>
                 <div class="info-container">
                     <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">LOGIN</div>
@@ -62,6 +62,9 @@ $oss='class="active"';
 
 <section class="content">
 <div class="container-fluid">
+    <div class="block-header">
+        <h2>One Stop Services (OSS)</h2>
+    </div>
     <div class="row clearfix">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <div class="card">
@@ -72,11 +75,13 @@ $oss='class="active"';
                     <div class="table-responsive">
                         <table class="table table-hover dashboard-task-infos">
                             <thead>
-                                <tr><td><span class="style3">...</span></td></tr>
+                                <tr><td><span class="style3">อัพเดท Login web</span></td></tr>
                             </thead>
                             <tbody>
-                                <tr><td><span class="style2">...</span></td></tr>
-                                <tr><td><span class="text-success">...</span></td></tr>
+                                <tr><td><span class="style2">
+                                1.อัพเดทหน้าเว็บ Login v1.8 to v 2.0<br>
+                                2.ประมวลผลข้อมูล สแกนลายนิ้วมือ</span></td></tr>
+                                <tr><td><span class="text-success">ประกาศ ณ.วันที่ 08-12-2018 11:27:05</span></td></tr>
                             </tbody>
                         </table>
                     </div>
